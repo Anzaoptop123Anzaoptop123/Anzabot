@@ -1,0 +1,1 @@
+telethon==1.40.0\npython-telegram-bot==20.8\nhttpx==0.26.0\n
